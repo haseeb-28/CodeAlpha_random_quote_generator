@@ -51,7 +51,7 @@ This app fetches random quotes from the ZenQuotes API.
 
 ## Screenshots
 
-![App Screenshot](ss.png)
+![App Screenshot](quote_screen.png)
 
 ## Contributing
 
