@@ -51,7 +51,7 @@ This app fetches random quotes from the ZenQuotes API.
 
 ## Screenshots
 
-![App Screenshot](screenshots/quote_screen.png)
+![App Screenshot](ss.png)
 
 ## Contributing
 
@@ -63,11 +63,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Haseeb Ur Rehman](https://github.com/haseeb-28)
-
-### Additional Notes:
-1. **Screenshots**: You can include a screenshot of your app in the `screenshots/` folder, or remove the `Screenshots` section if you don't have one yet.
-2. **License**: I’ve added an MIT license as a placeholder. You can replace this with the appropriate license for your project.
-3. **GitHub URL**: Replace `https://github.com/haseeb-28` with your GitHub URL if needed.
-
-This `README.md` provides a good overview of your project and makes it easy for others to understand how to use and contribute to it. Let me know if you need further changes! 😊
+Made by [Haseeb Ur Rehman](https://github.com/haseeb-28)
